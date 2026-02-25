@@ -18,3 +18,5 @@ This workshop contains the following modules for getting started with HoloViews:
 
 Additional and more in-depth tutorials can be found in the [user_guide](./user_guide/)
 
+Give the Exercises a go and have fun!
+
